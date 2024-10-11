@@ -17,10 +17,10 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/yourusername/infy-project.git
 ```
-##2. PostgreSQL Setup
+## 2. PostgreSQL Setup
 - Download and install PostgreSQL and pgAdmin.
 - Open pgAdmin and create a new database. You can name it app or choose your preferred database name.
-##3. Update application.properties
+## 3. Update application.properties
 -Navigate to the src/main/resources/application.properties file and update the following properties with your PostgreSQL details:
 ```bash
 spring.datasource.url=jdbc:postgresql://localhost:5432/app
@@ -29,7 +29,7 @@ spring.datasource.password=your_db_password
 spring.jpa.hibernate.ddl-auto=update
 ```
 - Replace your_db_username, your_db_password, and app with your actual database credentials.
-##4. Run the Application
+## 4. Run the Application
 - To run the application, use your preferred IDE or build tool:
  - This will start the server on http://localhost:8080.
 ##Additional Notes

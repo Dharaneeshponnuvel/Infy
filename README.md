@@ -15,7 +15,7 @@ This project is built using **Spring Boot** and **PostgreSQL**. Below are the st
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/infy-project.git
+https://github.com/Dharaneeshponnuvel/Infy.git
 ```
 ## 2. PostgreSQL Setup
 - Download and install PostgreSQL and pgAdmin.

@@ -21,7 +21,7 @@ https://github.com/Dharaneeshponnuvel/Infy.git
 - Download and install PostgreSQL and pgAdmin.
 - Open pgAdmin and create a new database. You can name it app or choose your preferred database name.
 ## 3. Update application.properties
--Navigate to the src/main/resources/application.properties file and update the following properties with your PostgreSQL details:
+- Navigate to the src/main/resources/application.properties file and update the following properties with your PostgreSQL details:
 ```bash
 spring.datasource.url=jdbc:postgresql://localhost:5432/app
 spring.datasource.username=your_db_username

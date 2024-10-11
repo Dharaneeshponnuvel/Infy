@@ -6,7 +6,7 @@ This project is built using **Spring Boot** and **PostgreSQL**. Below are the st
 - Java 8 or above
 - PostgreSQL
 - pgAdmin
-- Apache NetBeans (or any Java IDE)
+- intellij idea
 
 ## Setup Instructions
 

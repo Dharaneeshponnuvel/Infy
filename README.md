@@ -1,7 +1,7 @@
-Infy Project
+#Infy Project
 This project is built using Spring Boot and PostgreSQL. Below are the steps to set up the project on your local machine.
 
-Requirements
+#Requirements
 Java 8 or above
 PostgreSQL
 pgAdmin

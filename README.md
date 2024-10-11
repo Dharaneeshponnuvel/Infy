@@ -32,6 +32,6 @@ spring.jpa.hibernate.ddl-auto=update
 ## 4. Run the Application
 - To run the application, use your preferred IDE or build tool:
  - This will start the server on http://localhost:8080.
-##Additional Notes
+## Additional Notes
 - Ensure that the PostgreSQL server is running, and you've connected to the correct database.
 - The project uses pgAdmin for database management. You can monitor your database activity and query data using this tool.
